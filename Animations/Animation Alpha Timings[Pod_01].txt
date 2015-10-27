@@ -1,0 +1,53 @@
+Pod 01 Animation Alpha
+
+Animation 01 [Solar system][sec:milisec][30 fps]         
+
+Starting Alpha:-
+
+From 00:00 to 00:10 alpha is '0'
+   
+From 00:11 alpha will start increasing till 00:20 (In 00:20 alpha will be '1') 
+
+Ending Alpha:-
+
+From 11:03 alpha will start decreasing till 11:14 (In 11:14 alpha will be '0')
+
+
+Animation 02 [MARS Rotating]
+
+Starting Alpha:-
+
+There is no starting alpha trasition because MARS is coming from solar system.
+
+Ending Alpha:-
+
+From 21:25 alpha will start decreasing till 22:05 (In 22:05 alpha will be '0')
+
+
+Animation 03 [Earth n Mars rotating]
+
+Starting Alpha:-
+
+From 21:10 alpha will start increasing till 21:20 (In 21:20 alpha will be '1')
+
+Ending Alpha:-
+
+From 34:29 alpha will start decreasing till 35:09 (In 35:09 alpha will be '0')
+
+
+Animation 04 [Earth to Mars terraforming]
+
+Starting Alpha:-
+
+From 34:23 alpha will start increasing till 35:03 (In 35:03 alpha will be '1')
+
+
+Terraforming Timing:-
+
+From 39:23 to 49:22 the terraforming should be done.
+
+
+Ending Alpha:-
+
+From 53:11 alpha will start decreasing till 53:21 (In 53:21 alpha will be '0')
+
